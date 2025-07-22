@@ -1,0 +1,8 @@
+body, #root{
+    align-items: center;
+    background-color: #006850;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
